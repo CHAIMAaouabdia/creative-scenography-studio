@@ -1,0 +1,10 @@
+# Roadmap — Creative Scenography
+- [x] 1. Design system and public website (Home, Services, Portfolio, About)
+- [ ] 2. Lovable Cloud setup and authentication (client / scenographer, admin never self-assigned)
+- [ ] 3. Client and scenographer profiles (avatars, specialties, portfolio, availability)
+- [ ] 4. Role-based dashboards
+- [ ] 5. Multi-step project request workflow + lifecycle statuses
+- [ ] 6. Proposals and deliverables
+- [ ] 7. Admin dashboard (approvals, assignments, analytics)
+- [ ] 8. Subscriptions with manual payment verification
+- [ ] 9. Responsive and security testing

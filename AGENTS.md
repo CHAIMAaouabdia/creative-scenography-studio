@@ -28,3 +28,6 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+- Public marketing content (services, projects, team, FAQ) lives in src/lib/content.ts; why: one source for copy until it moves to the database.
+- Shared site chrome lives in src/components/site and wraps <Outlet /> in __root; why: one header/footer for all pages.
