@@ -1,6 +1,7 @@
 # Roadmap — Creative Scenography
 - [x] 1. Design system and public website (Home, Services, Portfolio, About)
 - [ ] 2. Lovable Cloud setup and authentication (client / scenographer, admin never self-assigned)
+  - Current priority: verify Phase 1 registration, login/logout, email confirmation, recovery/reset, and protected account onboarding before business workflows.
 - [ ] 3. Client and scenographer profiles (avatars, specialties, portfolio, availability)
 - [ ] 4. Role-based dashboards
 - [ ] 5. Multi-step project request workflow + lifecycle statuses

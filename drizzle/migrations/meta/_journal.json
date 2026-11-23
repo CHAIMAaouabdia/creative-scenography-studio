@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1795427558619,
+      "tag": "0000_create_registration_profiles_and_secure_roles",
+      "breakpoints": true
+    }
+  ]
+}
